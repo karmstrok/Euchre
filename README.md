@@ -1,13 +1,8 @@
+Welcome to the open Euchre NodeJS server!
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+The below is default readme from the Cloud9 IDE hosting.  This will be updated when the code gets updated for its end purposes.
 
 
-Welcome to your Node.js project on Cloud9 IDE!
 
 This chat example showcases how to use `socket.io` with a static `express` server.
 
