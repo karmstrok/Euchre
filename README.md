@@ -3,6 +3,7 @@ Welcome to the open Euchre NodeJS server!
 The below is default readme from the Cloud9 IDE hosting.  This will be updated when the code gets updated for its end purposes.
 
 
+Test change from euchre_server instance on C9
 
 This chat example showcases how to use `socket.io` with a static `express` server.
 
