@@ -1,4 +1,5 @@
 Welcome to the open Euchre NodeJS server!
+http://karmstrok.github.io/Euchre
 
 The below is default readme from the Cloud9 IDE hosting.  This will be updated when the code gets updated for its end purposes.
 
